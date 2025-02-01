@@ -12,7 +12,7 @@ I am continuously learning and improving my skills to build reliable software so
 
 ###
 
-<h3 align="center">🛠️ Languages & Technologies I Work With</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 ###
 
