@@ -4,7 +4,7 @@
 
 <p align="left">Hello World! I am Sachin Lakhani, a 4th-semester Bachelor's in Computer Science student. I have a strong foundation in programming. I focus on writing efficient and well-structured code, ensuring quality and maintainability.
 
-I am continuously learning and improving my skills to build reliable software solutions. Feel free to explore my repositories and connect with me! 🚀</p>
+I am continuously learning and improving my skills to build reliable software solutions. Feel free to explore my repositories and connect with me! </p>
 
 ###
 
