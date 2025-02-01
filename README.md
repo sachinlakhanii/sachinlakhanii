@@ -18,7 +18,7 @@ I am continuously learning and improving my skills to build reliable software so
 
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -40,7 +40,7 @@ I am continuously learning and improving my skills to build reliable software so
 
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/sachinlakhanii" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
   <a href="https://twitter.com/sachinlakhanii" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
   <a href="mailto:sachinlakhani.cs@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
@@ -48,6 +48,22 @@ I am continuously learning and improving my skills to build reliable software so
 </div>
 
 <br>
+
+###
+
+<h3 align="center">💼 Expertise & Technical Skills</h3>
+
+<br>
+
+<p align="center" > Chasing mastery, one step at a time. </p>
+
+###
+
+<h3 align="center">📂 Projects & Contributions</h3>
+
+<br>
+
+<p align="center" > Building projects, shaping future ideas. </p>
 
 ###
 
